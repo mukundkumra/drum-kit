@@ -42,5 +42,6 @@ The Drum Kit includes the following sound components:
 
 3. Click the drum buttons or use your keyboard as described above to enjoy playing the drum kit.
 
+---
 
 Enjoy your drumming experience! 🥁
